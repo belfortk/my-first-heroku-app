@@ -2,7 +2,8 @@ deployment:
   prod:
     branch: master
     heroku:
-      appname: your-heroku-app-name
+      appname: protected-springs-34834
+
 machine:
   node:
     version: 8.1.4
